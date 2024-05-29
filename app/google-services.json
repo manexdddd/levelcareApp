@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "206348014664",
+    "project_id": "levelcare-f47a9",
+    "storage_bucket": "levelcare-f47a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206348014664:android:7b5c20eb9487b76c18b47d",
+        "android_client_info": {
+          "package_name": "mx.tecnm.cdhidalgo.iotapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKinj11br7AlqiZcw8tjLtZmR7w8nokwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

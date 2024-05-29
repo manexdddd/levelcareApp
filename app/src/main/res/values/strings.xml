@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LevelCare</string>
+    <string name="texto02">Bienvenido a la App IoT </string>
+    <string name="boton">Iniciar</string>
+    <string name="hint1">Usuario</string>
+    <string name="hint2">Password</string>
+
+</resources>

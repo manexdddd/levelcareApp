@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.IotApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/azul1</item>
+    </style>
+    <!-- In your styles.xml -->
+    <!-- res/drawable/colored_line.xml -->
+
+
+
+    <style name="Theme.IotApp" parent="Base.Theme.IotApp" />
+</resources>
